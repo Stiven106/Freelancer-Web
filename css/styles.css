@@ -142,7 +142,7 @@ h1,h2,h3 {
     background-image: url(../img/SL-103020-37400-12.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 750px;
+    height: 700px;
     position: relative;
     margin-bottom: 2rem;
 }
@@ -328,20 +328,25 @@ footer {
     margin-top: 10px;
 }
 .cont-tarjeta__iconos .div1{
-    background-color: #ff92926c;
+    background-color: #f743e8d3;
 }
 .cont-tarjeta__iconos .div1:hover{
-    background-color:#ff9292e5 ;
+    background-color:#f155e4ad;
 }
 .cont-tarjeta__iconos .div2{
     background-color: #022bb1;
 }
+.cont-tarjeta__iconos .div2:hover{
+    background-color:#123dcc;
+}
 .cont-tarjeta__iconos .div3{
     background-color: #3b00dd;
 }
-.cont-tarjeta__iconos .div2:hover{
-    background-color:rgba(180, 160, 235, 0.69)
+
+.cont-tarjeta__iconos .div3:hover{
+    background-color: #5217f3;
 }
+
 .cont-tarjeta article{
     transform: translateY(130px);
     text-align: center;
